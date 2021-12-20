@@ -29,7 +29,7 @@ The GreenSock Animation Platform (GSAP) is a popular set of JavaScript tools for
 - Then open the index.html file in any browser.
 - Use your mouse for shooting.
 - You're done! Enjoy the shooting game.
-- You also can play the shooting game online by using this <a href="https://mdrakibulislam-zero.github.io/WebSnakeGame/" > link</a>.
+- You also can play the shooting game online by using this <a href="https://mdrakibulislam-zero.github.io/WebShootingGame/" > link</a>.
 
 
 ## Tutorial:
